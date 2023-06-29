@@ -13,7 +13,7 @@
 
 <h3>💻 Skills</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash,php,nodejs,react,mysql,mongodb,flask,express,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,php,nodejs,react,mysql,mongodb,flask,express,postman,vscode,html,css" />
   <br>
   <div style="display: inline-flex">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
